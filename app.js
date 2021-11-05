@@ -13,7 +13,7 @@ if (isNaN(input)) {
     } else if (input > num) {
         alert("The number is too high!");
     } else {
-        alert("Congrats! You guesed the correct number!")
+        alert("Congrats! You guessed the correct number!")
     }
 } */
 
